@@ -61,9 +61,10 @@ The dashboard was built using **Excel PivotTables, PivotCharts, slicers, and dyn
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview] 
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2026-03-09 152412.png"
 
----
+
+---<img width="1573" height="665" alt="Screenshot 2026-03-09 152412" src="https://github.com/user-attachments/assets/d0817448-e161-4655-8dc9-5c3f1886c885" />
+
 
 ## 🎥 Dashboard Demo
 
