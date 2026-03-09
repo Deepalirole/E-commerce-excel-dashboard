@@ -100,7 +100,5 @@ Aspiring Data Analyst with a focus on **data visualization, dashboard developmen
 
 ---
 
-## ⭐ If you found this project helpful
 
-Feel free to **star the repository** or share feedback!
 
